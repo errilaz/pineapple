@@ -1,4 +1,12 @@
-# Kiwi IRC
+# ~~Kiwi IRC~~ Pineapple
+
+## TODO
+
+- [x] Yarn -> Bun
+- [ ] JavaScript -> TypeScript
+- [ ] Eslint/Prettier -> Oxlint/Oxfmt
+- [ ] Vue2/Vue-Cli -> Vue3/Vite
+- [ ] Remove plugins
 
 ***A versatile web based messenger using IRC***
 
